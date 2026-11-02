@@ -1,0 +1,10 @@
+scenario,algorithm,total_cost,path_length,explored_nodes,execution_ms
+Basic,UCS,26,26,159,0.5144
+Basic,Greedy,26,26,27,0.1427
+Basic,A*,26,26,159,0.5728
+Walls,UCS,26,26,130,1.0064
+Walls,Greedy,28,28,29,0.071
+Walls,A*,26,26,72,0.1777
+Weighted,UCS,26,26,107,0.5168
+Weighted,Greedy,82,26,27,0.1114
+Weighted,A*,26,26,45,0.1108
